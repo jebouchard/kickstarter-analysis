@@ -8,15 +8,15 @@ Louise's play Fever came close to its fundraising goal in a short amount of time
     Outcomes Based on Launch Date 
     Outcome Based on Duration (extra)
     
-    
-    
+ (Outcomes Based on Goals.png)
+     
 From the Outcome Based on Goals graphic (above) it can be seen that the highest number of successful projects were in the $1,000 to $4,999 range with a total of 388. The impact of success based on goals can be seen by comparing the number of failed projects in the $1,000 to $4,999 to the number of successful projects in that range. The slope of the line graph leading up to and away from the failed projects point of 146 is shallower than the slopes leading up to and away from the successful projects in the same range. This shallower slope indicates a higher rate of successful projects vs. failed projects in this range. This higher rate of successful projects can also be seen by the relative distance between the successful and failed project in this range.
     
-    
+ ![Outcomes Based on Launch Date](Outcomes Based on Launch Date.png)
     
 From the Outcome Based on Launch Date graph (above) it can be seen that the most successful projects were launched in the summer (May through August) with May being the peak. The separation between the successful and failed projects in May is the largest of all months, which indicates a larger percentage of successful projects vs. failed projects in the month of May and this larger percentage indicates this is not just due to more projects being launched in the summer or May in particular. 
 
-
+(Outcomes Based on Duration.png)
 
 Additional anaylses (beyond the analyses requested) were conducted to look at the impact of duration on success of the campaigns. From the Outcome Based on Duration graph (above) it can be seen that the most successful campaigns had a duration of 3 to 6 weeks, with the peak at 4 to 5 weeks. The separation between the successful and failed campaigns in the 3 to 6 week period is the largest of all months, which indicates a larger percentage of successful projects vs. failed projects, but the increase is modest.
 
