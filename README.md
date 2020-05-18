@@ -8,7 +8,7 @@ Louise's play Fever came close to its fundraising goal in a short amount of time
     Outcomes Based on Launch Date 
     Outcome Based on Duration (extra)
    
-
+![Outcome Based on Goal](Outcome Based on Goal.png)
      
 From the Outcome Based on Goals graphic (above) it can be seen that the highest number of successful projects were in the $1,000 to $4,999 range with a total of 388. The impact of success based on goals can be seen by comparing the number of failed projects in the $1,000 to $4,999 to the number of successful projects in that range. The slope of the line graph leading up to and away from the failed projects point of 146 is shallower than the slopes leading up to and away from the successful projects in the same range. This shallower slope indicates a higher rate of successful projects vs. failed projects in this range. This higher rate of successful projects can also be seen by the relative distance between the successful and failed project in this range.
     
